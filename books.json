@@ -9,16 +9,14 @@
       "size": "8.0 MB",
       "description": "ORGANON OF MEDICINE - BOOK - NAGENDRA BABU"
     },
-    
-    {
-  "books": [
     {
       "id": "2",
-      "name": "ooANON OF MEDICINE - BOOK",
-      "author": "NAGENDRA BABU",
-      "downloadUrl": "https://drive.google.com/uc?export=download&id=1PLkkmjmpv9I-6Q5ZwKb4otvYUvvxouLW",
+      "name": "NEW BOOK TITLE",
+      "author": "AUTHOR NAME",
+      "downloadUrl": "https://drive.google.com/uc?export=download&id=1vgsDI7JBbZq1s_fLpMYu1rPnALHS4JdA",
       "coverImageUrl": "",
-      "size": "8.0 MB",
-      "description": "ORGANON OF MEDICINE - BOOK - NAGENDRA BABU"
+      "size": "?? MB",
+      "description": "Add a short description here"
     }
-
+  ]
+}
